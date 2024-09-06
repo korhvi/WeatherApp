@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 config.py
+/__pycache__
